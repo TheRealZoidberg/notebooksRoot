@@ -1,0 +1,9 @@
+[submodule "jdat_notebooks"]
+	path = jdat_notebooks
+	url = https://github.com/spacetelescope/jdat_notebooks.git
+[submodule "hellouniverse"]
+	path = hellouniverse
+	url = https://github.com/spacetelescope/hellouniverse.git
+[submodule "cos"]
+	path = cos
+	url = https://github.com/therealzoidberg/cos.git
