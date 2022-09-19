@@ -7,3 +7,4 @@
 [submodule "cos"]
 	path = cos
 	url = https://github.com/therealzoidberg/cos.git
+	branch = jdat_notebooks
