@@ -1,10 +1,12 @@
 [submodule "jdat_notebooks"]
 	path = jdat_notebooks
 	url = https://github.com/spacetelescope/jdat_notebooks.git
+	branch = main
 [submodule "hellouniverse"]
 	path = hellouniverse
 	url = https://github.com/spacetelescope/hellouniverse.git
+	branch = main
 [submodule "cos"]
 	path = cos
 	url = https://github.com/therealzoidberg/cos.git
-	branch = jdat_notebooks
+	branch = main
